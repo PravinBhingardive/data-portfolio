@@ -1,2 +1,9 @@
-# data-portfolio
-This repository showcases my work in Excel automation, data cleaning, and reporting. It includes practical examples of how I organize, validate, and analyze data to support decision-making.
+# About This Project
+This project demonstrates data cleaning and reporting samples.
+
+* Organized raw data into structured formats
+* Removed duplicates and validated entries
+* Created automated formulas for monthly summaries
+
+## Tools Used
+Microsoft Excel, Power BI, SQL (Basic)
